@@ -7,3 +7,6 @@
 print('Hello, This is my 3rd Task in Communicating thru Markdown')
 ```
 
+- [ ] Turn on GitHub pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
